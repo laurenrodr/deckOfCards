@@ -1,5 +1,4 @@
 # Author: Lauren Rodriguez
-# ID: 5694821
 # COP4338 U03
 
 CC = gcc
